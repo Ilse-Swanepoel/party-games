@@ -1,0 +1,8 @@
+{
+  "name": "party-games",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ]
+}
